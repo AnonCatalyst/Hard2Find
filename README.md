@@ -1,4 +1,4 @@
-## Vision Statement from Hard2Find > ©️: Development Company
+> Vision Statement from **Hard2Find ©️: Development Company**
 
 At Hard2Find ©️, we are driven by an unyielding commitment to innovation and excellence in the field of open-source intelligence (OSINT). Our mission is to break boundaries, push limits, and pioneer new frontiers in intelligence gathering. 
 
