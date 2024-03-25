@@ -1,39 +1,4 @@
-# DataSphere OSINT Framework 🌐🔍
-
-Welcome to the DataSphere OSINT Framework, your comprehensive open-source intelligence (OSINT) platform designed to empower individuals and organizations with effective tools for gathering intelligence from open sources.
-
-## Overview ℹ️
-
-The DataSphere OSINT Framework offers a wide array of tools and resources categorized into different sections to facilitate intelligence gathering activities. Whether you're conducting background checks, exploring web resources, or seeking development tools, this framework provides a range of options to suit your needs.
-
-## Table of Contents 📚
-
-### Investigation Tools 🔎
-1. Background Check: Perform thorough background checks on individuals.
-2. People Search: Search for information on specific individuals.
-3. Username Search: Look up information associated with a username.
-
-### Communication Tools 📞
-4. Free Calls, Text, Email Services: Utilize free communication services for anonymous communication.
-
-### Web Resources 🌐
-5. Forums: Explore various forums for information gathering.
-6. Paste Sites: Investigate content shared on paste sites.
-7. Proxy Sites: Access proxy sites for anonymity and bypassing restrictions.
-8. Search Engines: Utilize search engines for information retrieval.
-9. Deep Web Paste Sites: Delve into paste sites on the deep web.
-10. Deep Web Search Engines: Search the deep web for hidden information.
-
-### Development Resources 🛠️
-11. GitHub Alternatives: Explore alternatives to GitHub for hosting code.
-12. Hackstores: Access repositories of hacking tools and resources.
-13. Tool Collection Sites: Find collections of various OSINT tools.
-
-### Miscellaneous 🔄
-14. Miscellaneous: Additional miscellaneous tools and resources.
-15. Social Platforms: Investigate information from various social platforms.
-
-## Vision Statement from Hard2Find ©️: Development Company
+## Vision Statement from Hard2Find > ©️: Development Company
 
 At Hard2Find ©️, we are driven by an unyielding commitment to innovation and excellence in the field of open-source intelligence (OSINT). Our mission is to break boundaries, push limits, and pioneer new frontiers in intelligence gathering. 
 
