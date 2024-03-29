@@ -2,7 +2,7 @@
 
 At Hard2Find ©️, we are driven by an unyielding commitment to innovation and excellence in the field of open-source intelligence (OSINT). Our mission is to break boundaries, push limits, and pioneer new frontiers in intelligence gathering. 
 
-We recognize the evolving landscape of OSINT and aim to leverage the comprehensive resources provided by the DataSphere OSINT Framework to propel our vision forward. With an intricate understanding of the framework's tools and methodologies, we strive to optimize our intelligence gathering capabilities and deliver exceptional results to our clients.
+We recognize the evolving landscape of OSINT and aim to leverage the comprehensive resources provided by the Coeus OSINT Framework to propel our vision forward. With an intricate understanding of the framework's tools and methodologies, we strive to optimize our intelligence gathering capabilities and deliver exceptional results to our clients.
 
 ### Core Objectives:
 
@@ -43,7 +43,7 @@ istoleyourbutter is a seasoned OSINT professional with years of experience in th
 
 At Hard2Find ©️, we are driven by an unyielding commitment to innovation and excellence in the field of open-source intelligence (OSINT). Our mission is to break boundaries, push limits, and pioneer new frontiers in intelligence gathering. 
 
-We recognize the evolving landscape of OSINT and aim to leverage the comprehensive resources provided by the DataSphere OSINT Framework to propel our vision forward. With an intricate understanding of the framework's tools and methodologies, we strive to optimize our intelligence gathering capabilities and deliver exceptional results to our clients.
+We recognize the evolving landscape of OSINT and aim to leverage the comprehensive resources provided by the Coeus OSINT Framework to propel our vision forward. With an intricate understanding of the framework's tools and methodologies, we strive to optimize our intelligence gathering capabilities and deliver exceptional results to our clients.
 
 ### Core Objectives:
 
